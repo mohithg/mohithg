@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m a full stack engineer getting my hands dirty with datasciene especially forecasting.
+- 🔭 I’m a full stack engineer getting my hands dirty with datascience especially forecasting.
 - 👯 I’m looking to collaborate on any and all tools which makes lives easy and better. Feel free to [reach out](https://www.mohithg.com) to me.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohithg&no-frame=true&no-bg=true&theme=darkhub&title=Commit,PR,Repo,Issue)](https://github.com/ryo-ma/github-profile-trophy)
