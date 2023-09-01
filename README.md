@@ -6,6 +6,16 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohithg&no-frame=true&no-bg=true&theme=darkhub&title=Commit,PR,Repo,Issue)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohithg" alt="mohithg" /></a>
+</p>
+
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/mohithg/count.svg">  
+counting of visitors to this page in this section started from September 1, 2023
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohithg&show_icons=true&locale=en&layout=compact" alt="mohithg" /></p>
 
